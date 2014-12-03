@@ -1,0 +1,15 @@
+{
+  "name": "class-merge",
+  "version": "0.1.0",
+  "description": "A simple tool for merging classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Benjamin Horsleben",
+  "license": "WTFPL",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
