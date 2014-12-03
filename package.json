@@ -11,5 +11,19 @@
   "devDependencies": {
     "chai": "^1.10.0",
     "mocha": "^2.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fizker/class-merge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fizker/class-merge/issues"
+  },
+  "homepage": "https://github.com/fizker/class-merge"
 }
